@@ -1,6 +1,6 @@
-# Travel-India
+# Travel-Guide
 
-This repository is for the Travel India track of HACKA-DEMIC hackathon and is owned by Team Error 404.
+
 
 ## Introduction
 
@@ -29,21 +29,14 @@ This Project has lot of features to offer. Some of the top features are mentione
 ## Technologies Used
 
 1.  MongoDB
-2.  Firebase
 3.  Express
 4.  React.js
 5.  Node.js
-6.  OpenWeather API
-7.  Covid19API
-8.  Bootstrap
-9.  Html
-10. CSS
-11. Javascript
-12. Dialogflow
-13. Flask
-14. Python
-15. Heroku
-16. Onesignal
+6.  Bootstrap
+7.  Html
+8. CSS
+9. Javascript
+
 
 ## Future Implementations & Usage
 
