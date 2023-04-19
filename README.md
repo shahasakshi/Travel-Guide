@@ -8,7 +8,7 @@ Hi, Welcome to the Official documentation of the Travel India Website and Web ap
 
 ## Team Members
 1. Shalu Verma
-2. Shakshi Shah
+2. Sakshi Shaha
 3. 
 4. 
 
